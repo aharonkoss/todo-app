@@ -1,0 +1,24 @@
+2024-09-26T23:24:33.473Z - info:   [16164] *** FOLDER: c:\Users\aharo\PipedriveToDo\pipedrive-example-apps\apps\todo ***
+2024-09-26T23:24:33.474Z - info:   [16164] AzureReposVSCode/1.161.0 (VSCode 1.93.1; Windows_NT 10.0.22631; Node 20.15.1)
+2024-09-26T23:24:33.474Z - debug:  [16164] Looking for an External Context at c:\Users\aharo\PipedriveToDo\pipedrive-example-apps\apps\todo
+2024-09-26T23:24:33.474Z - debug:  [16164] No External Context at c:\Users\aharo\PipedriveToDo\pipedrive-example-apps\apps\todo
+2024-09-26T23:24:33.478Z - debug:  [16164] Looking for TFVC repository at c:\Users\aharo\PipedriveToDo\pipedrive-example-apps\apps\todo
+2024-09-26T23:24:33.478Z - debug:  [16164] TFVC Creating Tfvc object with localPath='undefined'
+2024-09-26T23:24:33.479Z - debug:  [16164] Using TFS proxy: 
+2024-09-26T23:24:33.480Z - debug:  [16164] TFVC Retrieved from settings; localPath='C:\TEE\TEE-CLC-14.114.0\tf.cmd'
+2024-09-26T23:24:33.481Z - debug:  [16164] TFVC Repository created with repositoryRootFolder='c:\Users\aharo\PipedriveToDo\pipedrive-example-apps\apps\todo'
+2024-09-26T23:24:33.482Z - debug:  [16164] TFVC Repository.CheckVersion
+2024-09-26T23:24:33.482Z - debug:  [16164] TFVC: tf add -noprompt -?
+2024-09-26T23:24:33.484Z - error:  [16164] spawn EINVAL
+2024-09-27T17:20:05.339Z - info:   [16288] *** FOLDER: c:\Users\aharo\Kosstech\OneDrive - Strategic Integration Technologies\PipedriveAIApp\todo ***
+2024-09-27T17:20:05.340Z - info:   [16288] AzureReposVSCode/1.161.0 (VSCode 1.93.1; Windows_NT 10.0.22631; Node 20.15.1)
+2024-09-27T17:20:05.341Z - debug:  [16288] Looking for an External Context at c:\Users\aharo\Kosstech\OneDrive - Strategic Integration Technologies\PipedriveAIApp\todo
+2024-09-27T17:20:05.341Z - debug:  [16288] No External Context at c:\Users\aharo\Kosstech\OneDrive - Strategic Integration Technologies\PipedriveAIApp\todo
+2024-09-27T17:20:05.343Z - debug:  [16288] Looking for TFVC repository at c:\Users\aharo\Kosstech\OneDrive - Strategic Integration Technologies\PipedriveAIApp\todo
+2024-09-27T17:20:05.343Z - debug:  [16288] TFVC Creating Tfvc object with localPath='undefined'
+2024-09-27T17:20:05.345Z - debug:  [16288] Using TFS proxy: 
+2024-09-27T17:20:05.345Z - debug:  [16288] TFVC Retrieved from settings; localPath='C:\TEE\TEE-CLC-14.114.0\tf.cmd'
+2024-09-27T17:20:05.350Z - debug:  [16288] TFVC Repository created with repositoryRootFolder='c:\Users\aharo\Kosstech\OneDrive - Strategic Integration Technologies\PipedriveAIApp\todo'
+2024-09-27T17:20:05.352Z - debug:  [16288] TFVC Repository.CheckVersion
+2024-09-27T17:20:05.352Z - debug:  [16288] TFVC: tf add -noprompt -?
+2024-09-27T17:20:05.354Z - error:  [16288] spawn EINVAL
